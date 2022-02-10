@@ -1,0 +1,25 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaydenSmith25/Web-Scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaydenSmith25/Web-Scraper/issues"
+  },
+  "homepage": "https://github.com/HaydenSmith25/Web-Scraper#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
