@@ -1,0 +1,3 @@
+# Web-Scraper
+
+Simple web scrapper that allows you to get specific data from a desired site and then display it in your local terminal. Still trying to work out some issues with my scrape specifically. All you really need to do to scrape is inspect a webpage and grab whatever html tag you want to scrape and then paste it into the code. My first attempt was to grab the profile name of someone on twitter and set the scrapper up to return tweets related to that user. Think I need more information than just the tag in which the username is placed in, because mine was returning a large amount of data once I got it running.
